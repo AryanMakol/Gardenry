@@ -86,7 +86,7 @@ public class Login extends AppCompatActivity {
         }
         catch (ApiException e) {
 //            Toast.makeText(Login.this, "Signed In failed", Toast.LENGTH_SHORT).show();
-            Toast.makeText(getApplicationContext(),""+e,Toast.LENGTH_SHORT).show();
+//            Toast.makeText(getApplicationContext(),""+e,Toast.LENGTH_SHORT).show();
 
         }
     }

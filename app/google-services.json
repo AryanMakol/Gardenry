@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "285356129372",
-    "project_id": "gardenry-6cdb9",
-    "storage_bucket": "gardenry-6cdb9.appspot.com"
+    "project_number": "765433192759",
+    "project_id": "gardenry-d35ba",
+    "storage_bucket": "gardenry-d35ba.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:285356129372:android:5f48442781e61a65b1fa99",
+        "mobilesdk_app_id": "1:765433192759:android:d5baac4ffd7be025a83ab2",
         "android_client_info": {
-          "package_name": "com.example1.gardenry"
+          "package_name": "com.example.gardenry"
         }
       },
       "oauth_client": [
         {
-          "client_id": "285356129372-r16e9go95hfg37npu1u8d6o70q2maoql.apps.googleusercontent.com",
+          "client_id": "765433192759-uhnu8hhhdcv6ecedo2cib5ent5ru1bdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gardenry",
+            "certificate_hash": "0d22f50c07a6f293bb5dcf3e115bb5039ac12822"
+          }
+        },
+        {
+          "client_id": "765433192759-0blhsl1jgnje2scshnmdrmkotmsjo45o.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB5efNhrhPNM0RizIkkMCubWRoueVdJKg4"
+          "current_key": "AIzaSyC4P1Mt7MsWB5zkr5lxdKVNwELzbk8pxgk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "285356129372-r16e9go95hfg37npu1u8d6o70q2maoql.apps.googleusercontent.com",
+              "client_id": "765433192759-0blhsl1jgnje2scshnmdrmkotmsjo45o.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
